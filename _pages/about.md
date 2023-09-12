@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!I am Lei Zhou(周磊)"
+title: "Hi! I am Lei Zhou(周磊)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,12 +19,12 @@ Interests
 - **Privacy Protection**
 
 Education
-======
+------
 
 * B.S. in Computer Science and Technology，Xuzhou Medical University, 2019-2023
 * Ph.D in Computer Science and Technology，Nanjing University of Aeronautics and Astronautics, 2023-Present
 
 Work experience
-======
+------
 
 * Waiting for the update.
