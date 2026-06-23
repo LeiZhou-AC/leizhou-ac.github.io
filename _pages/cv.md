@@ -16,10 +16,14 @@ Education
 
 Work experience
 ======
-* To be updated.
+* Large Language Model Algorithm Intern, Shanghai Aircraft Design and Research Institute, Commercial Aircraft Corporation of China, Ltd. (COMAC), Shanghai, China, 2025.10-2026.06.
   
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic service
+======
+* Reviewer for IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), AAAI Conference on Artificial Intelligence (AAAI), The Web Conference (WWW), IEEE Internet of Things Journal (IoTJ), and related venues.

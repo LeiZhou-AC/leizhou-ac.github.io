@@ -16,7 +16,7 @@ Interests
 ------
 - **AI Security**
 
-- **Privacy Protection**
+- **Machine Unlearning**
 
 Education
 ------
@@ -27,4 +27,9 @@ Education
 Work experience
 ------
 
-* Waiting for the update.
+* Large Language Model Algorithm Intern, Shanghai Aircraft Design and Research Institute, Commercial Aircraft Corporation of China, Ltd. (COMAC), Shanghai, China, 2025.10-2026.06.
+
+Academic service
+------
+
+* Reviewer for IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), AAAI Conference on Artificial Intelligence (AAAI), The Web Conference (WWW), IEEE Internet of Things Journal (IoTJ), and related venues.
