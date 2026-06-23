@@ -1,13 +1,12 @@
-# Develop override settings
+# Local development overrides. Restart `jekyll serve` after editing config files.
 
-url: http://localhost:4000
+url: http://127.0.0.1:4000
 
 analytics:
   provider: false
 
 comments:
-  disqus:
-    shortname            : "mmistakes-dev"
+  provider: false
 
 sass:
   style: expanded

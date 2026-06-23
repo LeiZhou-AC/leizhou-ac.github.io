@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+
+bundle config path vendor/bundle
+
+if [[ -n "${RUBYGEMS_MIRROR:-}" ]]; then
+  bundle config mirror.https://rubygems.org "${RUBYGEMS_MIRROR}"
+fi
+
+bundle install

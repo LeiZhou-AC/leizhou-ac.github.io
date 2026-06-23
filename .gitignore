@@ -1,2 +1,11 @@
 _site/
-
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.jekyll-server.log
+.jekyll-server.pid
+.static-server.log
+.static-server.pid
+vendor/bundle/
+node_modules/

@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+
+args=(
+  serve
+  --config _config.yml,_config.dev.yml
+  --host 127.0.0.1
+  --port "${PORT:-4000}"
+)
+
+if [[ "${LIVERELOAD:-1}" != "0" ]]; then
+  args+=(--livereload)
+fi
+
+if [[ "${DETACH:-0}" == "1" ]]; then
+  args+=(--detach)
+fi
+
+bundle exec jekyll "${args[@]}"

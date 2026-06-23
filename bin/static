@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "$0")/.."
+
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+
+bundle exec jekyll build --config _config.yml,_config.dev.yml
+ruby -run -e httpd _site -p "${PORT:-4000}" -b 127.0.0.1

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "LeiZhou"
+title: "Lei Zhou"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Waiting for the update.
+* To be updated.
   
 Publications
 ======

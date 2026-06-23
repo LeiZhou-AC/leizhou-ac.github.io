@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year PhD student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA), China. I am fortunate to be advised by [Prof. Youwen Zhu](http://zhuyw.cn/). 
+I am currently a third-year PhD student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics (NUAA), China. I am fortunate to be advised by [Prof. Youwen Zhu](http://zhuyw.cn/). 
 
 
 
 Interests
 ------
-- **AI Secruity**
+- **AI Security**
 
 - **Privacy Protection**
 
